@@ -47,3 +47,5 @@ What are the regulations for using the data?
 The regulations for using this data follow the “World Bank Open Data License,” which means it is publicly available. It just should be cited from the World Bank Group. 
 
 If you are referencing sources, be sure to include citations/references as needed.
+
+World Bank Group - International Development, Poverty and Sustainability. World Bank Group - International Development, Poverty, & Sustainability. (n.d.). https://www.worldbank.org/ext/en/home 
